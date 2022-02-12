@@ -23,9 +23,10 @@ Create a branch to work on
 
 ### Usage
 
-Download it directly by ZIP, open the index file in a text editor, and you can change the content to match your own.
-CD into the root folder and run (bundle install)
-run "rspec spec/solver_spec.rb" to launch project on local terminal.
+- Download it directly by ZIP, open the index file in a text editor, and you can change the content to match your own.
+- CD into the root folder and run **bundle install**
+- make sure you install RSpec by running this command **gem install rspec**
+- run "rspec spec/solver_spec.rb" to launch project on local terminal and see the passing tests.
 
 
 ## Authors
