@@ -17,7 +17,8 @@ describe Solver do
     end
 
     it 'Reverses a string with the reverse method' do
-      expect(solver.reverse)
+      expect(solver.reverse('hello')).to eq('olleh')
+      expect(solver.reverse('testing')).to eq('gnitset')
     end
   end
 end
