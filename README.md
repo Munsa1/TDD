@@ -25,8 +25,8 @@ run npm start
 ### Usage
 
 Download it directly by ZIP, open the index file in a text editor, and you can change the content to match your own.
-CD into the root folder and run npm i(NodeJs and NPM required)
-run npm start to launch project on local server.
+CD into the root folder and run (bundle install)
+run "rspec spec/solver_spec.rb" to launch project on local terminal.
 
 
 ## Authors
