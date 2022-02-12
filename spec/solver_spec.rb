@@ -13,7 +13,6 @@ describe Solver do
 
     it 'Calculate factorial of positive integers' do
       expect(solver.factorial(8)).to eq(40_320)
-      expect(solver.factorial(3)).to eq(6)
     end
 
     it 'Reverses a string with the reverse method' do

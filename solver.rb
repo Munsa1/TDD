@@ -11,7 +11,7 @@ class Solver
   end
 
   def fizzbuzz(num)
-    if (num % 15).zero? 
+    if (num % 15).zero?
       'fizzbuzz'
     elsif (num % 5).zero?
       'buzz'
