@@ -20,7 +20,6 @@ Open your terminal or command line
 Run git clone and paste the link
 Open the folder with your code editor
 Create a branch to work on
-run npm start
 
 ### Usage
 
